@@ -6,7 +6,7 @@
 .wrapper {
   position: relative;
   /*padding-bottom: 56.25%; /* 16:9 */
-  padding-bottom: 100%;
+  padding-bottom: 150%;
   height: 0;
 }
 .wrapper iframe {
@@ -19,8 +19,11 @@
 footer, #sidebar {
   display: none !important;
 }
-main {
+.inner {
   max-width: 128rem !important;
+  width: 100%;
+  margin: 10%;
+  float: none;
 }
 
 .project-tagline {
