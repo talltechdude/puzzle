@@ -1,13 +1,42 @@
-## Welcome to GitHub Pages
+<style>
+  .wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+  }
+  .wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  footer {
+    display: none !important;
+  }
+  main {
+    max-width: 128rem !important;
+  }
 
-You can use the [editor on GitHub](https://github.com/talltechdude/puzzle/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  .project-tagline {
+    max-width: 42rem;
+    margin: auto;
+  }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  .btn {
+    display: none !important;
+  }
+</style>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Week 6
 
+Here's a crossword for you to try!
+<div class="wrapper">
+<iframe width="100%" height="100%" style="background-color:white; padding:5px 0px 0 5px; border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/ballet27"></iframe></div>
+
+
+### Examples
 ```markdown
 Syntax highlighted code block
 
