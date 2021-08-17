@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+title: A list of puzzles!
+description: |
+  Puzzle your way to victory!
+github:
+  is_project_page: false
