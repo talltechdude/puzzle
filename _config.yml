@@ -1,6 +1,9 @@
-theme: jekyll-theme-architect
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: A list of puzzles!
 description: |
   Puzzle your way to victory!
 github:
   is_project_page: false
+show_downloads: false
