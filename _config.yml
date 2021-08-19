@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: Ballet Activities!
 description: |
-  Puzzle your way to victory will you wait for class or during the week!
+  Puzzle your way to victory! While you are waiting for class or during the week!
 github:
   is_project_page: false
 show_downloads: false
