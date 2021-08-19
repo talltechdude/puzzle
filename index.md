@@ -7,6 +7,7 @@ Goodluck!
 <div class="wrapper">
 <iframe width="100%" height="100%" style="background-color:white; padding:5px 0px 0 5px; border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/ballet-barre_level-2-easy"></iframe></div>
 
+Want to find out some of the hard ones? Try out this [Quizlet](https://quizlet.com/join/aMDGFjbdn)
 
 ## Too easy? Have a go with this harder crossword! Can you complete all of it?
 <div class="wrapper">
