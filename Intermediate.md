@@ -1,1 +1,1 @@
-#Intermediate Activities page
+# Intermediate Activities page
