@@ -1,4 +1,4 @@
-# Crosswords!! Week 5-6
+# Crosswords!! Week 6-7
 
 ## Here's a crossword for you to try!
 Read the clues at the bottom of the crossword. Click the column or row and type your answer in. 
