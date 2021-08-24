@@ -8,6 +8,7 @@ permalink: /grade-4-5
 **Click a link below to start your fun** 🥳
 * [Quizlet](https://quizlet.com/join/aMDGFjbdn)
 * [Kahoot-Tarantella Grade 4 Character](https://create.kahoot.it/share/tarantella-history-and-background/3d4e7dca-d8b2-4051-86f8-f52de4b59dd6)
+* [Kahoot-Grade 5 Terminology](https://create.kahoot.it/share/grade-5-ballet-theory/1ffb82cf-f90c-4f16-8a24-f15dac4a60bc)
 * Try a crossword below!
 
 ## Crossword! Week 6-7
