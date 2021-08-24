@@ -12,6 +12,7 @@ permalink: /intermediate
 * Try the crossword below 🤔
 ## Crossword! Week 7-8
 ### This crossword will update every 2 weeks. This is just a fun way to get to know your free enchainment steps well
+<div class="wrapper">
 <iframe width="1005" height="100%" style="background-color:white; padding:5px 0px 0 5px; border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/ballet_level-3_int_freeenchainment-2"></iframe>
 
 *Back to [main page](https://puzzles.dancetech.cc/)*
