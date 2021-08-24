@@ -1,6 +1,6 @@
 # Learn all your ballet steps and history with fun games and puzzles 😄
 
-**Click on your grade below to begin the fun** 🥳
+## **Click on your grade below to begin the fun** 🥳
 
 * [Grade 4 & 5](https://puzzles.dancetech.cc/grade-4-5)
 * [Intermediate Foundation](https://puzzles.dancetech.cc/intermediatefoundation)
