@@ -15,4 +15,4 @@ permalink: /intermediate
 <div class="wrapper">
 <iframe width="1005" height="100%" style="background-color:white; padding:5px 0px 0 5px; border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/ballet_level-3_int_freeenchainment-2"></iframe>
 
-*Back to [main page](https://puzzles.dancetech.cc/)*
+#### *Back to [main page](https://puzzles.dancetech.cc/)*
