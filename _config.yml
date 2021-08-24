@@ -1,7 +1,7 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Ballet Activities!
+title: Ballet Activities!:ballet_shoes
 description: |
   Take the opportunity to learn through puzzles and games!
 github:
