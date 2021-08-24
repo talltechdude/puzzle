@@ -1,5 +1,4 @@
-# Welcome to the unique web page for all things ballet!
-## Learn all your ballet steps and history with fun games and puzzles 😄
+# Learn all your ballet steps and history with fun games and puzzles 😄
 
 **Click on your grade below to begin the fun** 🥳
 
