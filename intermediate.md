@@ -9,6 +9,7 @@ permalink: /intermediate
 * [Quizlet](https://quizlet.com/join/ee23APpVV)
 * [Kahoot-level 1](https://create.kahoot.it/share/ballet-rad-free-enchainment-intermediate/0c00ffd0-36c3-4462-bcdd-a68898fbcf41)
 * [Kahoot-level 2](https://create.kahoot.it/share/ballet-rad-free-enchainment-intermediate-part-2/a5c22ced-2cbe-4fa6-87ef-90a50cbe5d38)
+* [Practice spreadsheet](https://docs.google.com/spreadsheets/d/1E40frtkJYwDLzjIgGgzVnHRm1joUv25M5NLYzIE8-J4/edit?usp=sharing)
 * Try the crossword below 🤔
 ## Crossword! Week 7-8
 ### This crossword will update every 2 weeks. This is just a fun way to get to know your free enchainment steps well
