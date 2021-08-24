@@ -1,3 +1,6 @@
+---
 title: "Intermediate exam"
-permalink: /intermediate/
+permalink: /intermediate
+---
+
 # Intermediate Activities page
