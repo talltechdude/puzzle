@@ -1,5 +1,5 @@
 ---
-title: "Intermediate exam"
+title: "Vocational RAD: Intermediate"
 permalink: /intermediate
 ---
 
