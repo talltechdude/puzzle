@@ -7,7 +7,9 @@ permalink: /intermediate
 *Back to [main page](https://puzzles.dancetech.cc/)*
 ## Here is some useful resources to get you on track to learning Free enchainment steps confidently
 * [Quizlet](https://quizlet.com/join/ee23APpVV)
-* [Kahoot] 
+* [Kahoot-level 1](https://create.kahoot.it/share/ballet-rad-free-enchainment-intermediate/0c00ffd0-36c3-4462-bcdd-a68898fbcf41)
+* [Kahoot-level 2](https://create.kahoot.it/share/ballet-rad-free-enchainment-intermediate-part-2/a5c22ced-2cbe-4fa6-87ef-90a50cbe5d38)
+* Try the crossword below 🤔
 ## Crossword! Week 7-8
 ### This crossword will update every 2 weeks. This is just a fun way to get to know your free enchainment steps well
 *Back to [main page](https://puzzles.dancetech.cc/)*
