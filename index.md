@@ -6,9 +6,7 @@
 * 🩰 [Intermediate Foundation](https://puzzles.dancetech.cc/intermediatefoundation)
 * 🩰 [Intermediate](https://puzzles.dancetech.cc/intermediate)
 
-## Here's an easy crossword for you to try!
-Read the clues at the bottom of the crossword. Click the column or row and type your answer in. 
-If you got the answer correct, the letters will turn green.
+## Here's a puzzle for you to try!
 Goodluck 🙂
 <div class="wrapper">
-<iframe width="100%" height="100%" style="background-color:white; padding:5px 0px 0 5px; border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/ballet-basics_easy"></iframe></div>
+<iframe src='https://puzzel.org/en/jigsaw/embed?p=-MjiI8lEIkvnfsUrk457' width='100%' height='800' frameborder='0'></iframe></div>
