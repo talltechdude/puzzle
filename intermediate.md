@@ -11,10 +11,12 @@ permalink: /intermediate
 * [Kahoot-level 2](https://create.kahoot.it/share/ballet-rad-free-enchainment-intermediate-part-2/a5c22ced-2cbe-4fa6-87ef-90a50cbe5d38)
 * [Practice spreadsheet](https://docs.google.com/spreadsheets/d/1E40frtkJYwDLzjIgGgzVnHRm1joUv25M5NLYzIE8-J4/edit?usp=sharing)
 * Try the crossword below 🤔
+
 ## Skeleton Picture
 <div class="wrapper">
 <iframe src='https://puzzel.org/en/label-this/embed?p=-MjiEVHTFVsVpbDNFk3y' width='100%' height='100%' frameborder='0'></iframe>
 </div>
+
 ## Crossword!
 ### This crossword will update every 2 weeks. This is just a fun way to get to know your free enchainment steps well
 <div class="wrapper">
