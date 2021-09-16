@@ -13,10 +13,6 @@ permalink: /grade-4-5
 * [Kahoot-Grade 5 Terminology](https://create.kahoot.it/share/grade-5-ballet-theory/1ffb82cf-f90c-4f16-8a24-f15dac4a60bc)
 * Colouring pages
 
-## Find-a-word!
-<div class="wrapper">
-<div><iframe src='https://puzzel.org/en/wordseeker/embed?p=-Mjh5euJOvX-R_S0VvFc' width='100%' height='100%' frameborder='0'></iframe></div>
-
 ## Holiday Crossword
 ### These crosswords will update every 2 weeks so keep checking!
 Read the clues at the bottom of the crossword. Click the column or row and type your answer in. 
@@ -25,4 +21,8 @@ Goodluck!
 <div class="wrapper">
 <iframe width="100%" height="100%" style="background-color:white; padding:5px 0px 0 5px; border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/ballet_level-2-puzzle-1"></iframe></div>
 
-#### *Back to [main page](https://puzzles.dancetech.cc/)*
+## Find-a-word!
+<div class="wrapper">
+<div><iframe src='https://puzzel.org/en/wordseeker/embed?p=-Mjh5euJOvX-R_S0VvFc' width='100%' height='100%' frameborder='0'></iframe></div>
+
+### *Back to [main page](https://puzzles.dancetech.cc/)*
