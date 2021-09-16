@@ -15,8 +15,7 @@ permalink: /grade-4-5
 
 ## Find-a-word!
 <div class="wrapper">
-<div><iframe src='https://puzzel.org/en/wordseeker/embed?p=-Mjh5euJOvX-R_S0VvFc' width='100%' height='800' frameborder='0'></iframe></div>
-#### *Back to [main page](https://puzzles.dancetech.cc/)*
+<div><iframe src='https://puzzel.org/en/wordseeker/embed?p=-Mjh5euJOvX-R_S0VvFc' width='100%' height='100%' frameborder='0'></iframe></div>
 
 ## Holiday Crossword
 ### These crosswords will update every 2 weeks so keep checking!
@@ -26,4 +25,4 @@ Goodluck!
 <div class="wrapper">
 <iframe width="100%" height="100%" style="background-color:white; padding:5px 0px 0 5px; border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/ballet_level-2-puzzle-1"></iframe></div>
 
-
+#### *Back to [main page](https://puzzles.dancetech.cc/)*
